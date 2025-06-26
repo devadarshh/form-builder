@@ -6,21 +6,13 @@ A dynamic and user-friendly **Form Builder** web application that allows users t
 
 ## 🚀 Features
 
-- ➕ Add form fields dynamically
+- ➕ Add form fields dynamically:
   - Text Inputs
   - Checkboxes
   - Radio Buttons
-- 👀 Live form preview as you build
-- 🧹 Clear/reset form
-- ⚡ Instant, interactive UI with responsive design
-
----
-
-## 🖥️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
+- 👀 Live form preview while building
+- 🧹 Option to clear/reset the form
+- ⚡ Instant and responsive UI
 
 ---
 
@@ -28,7 +20,13 @@ A dynamic and user-friendly **Form Builder** web application that allows users t
 
 🌐 [Click here to view the deployed project](https://form-builder-devadarshh.netlify.app/)
 
-> Replace the above link with your actual Netlify/Vercel or GitHub Pages deployment link.
+---
+
+## 🖥️ Tech Stack
+
+- **HTML5** – Markup structure
+- **CSS3** – Styling and layout
+- **JavaScript (Vanilla)** – Dynamic functionality
 
 ---
 
