@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Form Builder</title>
+  </head>
+  <body>
+    <main class="container">
+      <section id="form-builder">
+        <h1>🛠️ Form Builder</h1>
+
+        <label for="inputType">Select Field Type:</label>
+        <select id="inputType">
+          <option value="h3">Heading (H3)</option>
+          <option value="input">Text Input</option>
+          <option value="radio">Radio Group</option>
+        </select>
+
+        <label for="inputValue">Field Label:</label>
+        <input type="text" id="inputValue" placeholder="Enter label text" />
+
+        <label for="placeholderValue">Placeholder (for input):</label>
+        <input
+          type="text"
+          id="placeholderValue"
+          placeholder="Enter placeholder (optional)"
+        />
+
+        <button onclick="add()">Add Field</button>
+      </section>
+
+      <section id="form-preview">
+        <h1>📝 Form Preview</h1>
+      </section>
+    </main>
+
+    <script src="./index.js"></script>
+  </body>
+</html>
