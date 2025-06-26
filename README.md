@@ -30,5 +30,3 @@ A dynamic and user-friendly **Form Builder** web application that allows users t
 
 ---
 
-## 📁 Project Structure
-
